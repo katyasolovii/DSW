@@ -1,8 +1,5 @@
-x = int(input())
-if x % 4 == 0 and x % 100 != 0:
-    print("YES")
-else:
-    if x % 400 == 0:
-        print("YES")
-    else:
-        print("NO")
+The site was launched in April 2008 by Tom
+Preston-Werner, Chris Wanstrath, P. J. Hyett and
+Scott Chacon after it had been available for a
+months as a beta release. GitHub has an annual keynote
+called GitHub Universe.
