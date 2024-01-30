@@ -1,0 +1,3 @@
+GitHub, Inc. is an AI-powered developer platform that allows
+developers to create, store, manage and share their code.
+Development of the GitHub platform began on October 19, 2007.
